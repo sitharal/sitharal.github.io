@@ -1,0 +1,62 @@
+# Site settings
+title: Freelancer
+email: your-email@domain.com
+url: https://example.github.io
+description: "This is the blog used to update some sitharals of the society"
+keywords: "sidharal, enclose"
+skills: "Exposure to the Socitey - Speaking truth - Good thinking"
+meta_author: Jeeva  Saravanan
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Jeeva Saravanan
+  location: youtube & facebook
+  social: Contact me through
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: https://www.facebook.com/sitharaltv/
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: youtube
+    url: http://github.com/jekyll
+  - title: kidtoys
+# Postal address (add as many lines as necessary)
+address:
+  - line: youtube/sitharaltv
+  - line: facebook/sitharaltv
+
+# Credits content
+credits: 'Hosted with ❤ GITHUB and to the contributors for the sitharaltv '
+# Build settings
+markdown: kramdown
+permalink: pretty
