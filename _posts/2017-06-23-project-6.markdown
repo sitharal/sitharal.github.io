@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2017-06-23
+img: submarine.png
+alt: image-alt
+sitharal-date: June 2017
+description: This is the web-blog of sithral, here I am going to share some sitharals for u @many occasion and stay tuned.
+I used to post a video regarding the sitharal<a href="#">Sitharal</a>. 
+
+---
