@@ -7,7 +7,7 @@ alt: image-alt
 project-date: june 2016
 client: Sitharalin mudhal post
 category: introduction
-description: This is the first post of our sitharl pages hope let us move our ahead towards the great community
+description: This is the first post of our **sitharal blog**, hope let us move our towards the great community and have some exposure towards our surroundings.
 
 ---
 
