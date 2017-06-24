@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2014-07-18
-img:swift.png
+img:
 alt:image-alt
 sitharal:chinna sidharal
 reason:test
