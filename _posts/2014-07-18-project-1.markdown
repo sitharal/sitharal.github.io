@@ -3,7 +3,6 @@ layout: default
 date: 2014-07-18
 img: swift.png
 alt: image-alt
-sitharal:chinna sidharal
+sitharal: chinna sidharal
 reason: test
-
 ---
