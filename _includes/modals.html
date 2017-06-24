@@ -12,7 +12,8 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h1style="color:gold;">SITHARAL</h1>
+                            <h1 style="color:yellow;">SITHARAL</h1>
+                            <br>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
@@ -22,10 +23,14 @@
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.date }}</a>
+                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                        </ul>
+                                <li>overalltheme:
+                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    </strong>
+                                </li>
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
