@@ -7,7 +7,6 @@ alt: image-alt
 project-date: june 2016
 client: Wow on Tamizh
 category: Tamil's Magic
-description: Happy 
-
+description: Let us Proud of our Language to have that awesome feautres in it.. Proud of Tamilzh *Ancient and Efficient Language*
 ---
 
